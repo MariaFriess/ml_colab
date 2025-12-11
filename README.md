@@ -13,3 +13,14 @@
 >
 >Данные можно взять на Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 <br>
+
+## Выводы
+<img src="https://img.icons8.com/?size=100&id=8cZkMxbOqVFU&format=png&color=006400" alt='green' height='20' />
+<img src="https://img.icons8.com/?size=100&id=8cZkMxbOqVFU&format=png&color=40e0d0" alt='mint' height='20' />
+<img src="https://img.icons8.com/?size=100&id=8cZkMxbOqVFU&format=png&color=0000CD" alt='indigo' height='20' />
+<img src="https://img.icons8.com/?size=100&id=8cZkMxbOqVFU&format=png&color=EE82EE" alt='pink' height='20' />
+<img src="https://img.icons8.com/?size=100&id=8cZkMxbOqVFU&format=png&color=8B0000" alt='red' height='20' />
+
+🟢
+🔵
+
