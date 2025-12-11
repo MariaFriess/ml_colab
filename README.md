@@ -10,6 +10,5 @@
 >  - Нормализовать данные
 >  - Применить K-Means или DBSCAN
 >  - Визуализировать кластеры через PCA
-<br>
->Данные можно взять на Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+><br>Данные можно взять на Kaggle: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 <br>
